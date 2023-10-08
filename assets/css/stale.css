@@ -8,6 +8,71 @@ body {
 
     background-image: url("../kartinki/intro.png");
     background-position: top;
-    background-size: 100%;
+    background-size: 110%;
+}
 
+
+.q { 
+    left: 880px;
+    top: -20px;
+    position: relative;
+}
+
+.w ul li {
+    display: inline;
+}
+
+.r ul li {
+    display: inline;
+}
+
+.w { 
+    position: relative;
+    margin: 15px;
+    left: 170px;
+    top: 25px;
+}
+
+.r { 
+    position: relative;
+    margin: 15px;
+    left: 1090px;
+    top: -132px;
+}
+
+
+.e { 
+    border: none;
+    background: rgba(0, 0, 0, 0);
+    font-size: 17px;
+    margin: 0px 15px;
+}
+
+.t { 
+    border: none;
+    background: rgba(0, 0, 0, 0);
+    font-size: 17px;
+    margin: 0px 20px;
+}
+
+
+main { 
+    margin: -150px 300px 0px;
+}
+
+.tx { 
+    text-align: center;
+    font-size: 50px;
+}
+.tex { 
+    line-height: 0.2;
+}
+
+
+.ttt2 { 
+    color: #9F6B08;
+}
+
+.c { 
+    text-align: center;
 }
