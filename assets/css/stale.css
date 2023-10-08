@@ -4,11 +4,10 @@ body {
 
 }
 
-.body { 
-    width: 100%;
-    height: 100vh;
-    background: url("../kartinki/intro.png") center
-    no-repeat;
-    -webkit-background-size: cover;
-    background-size: cover;
+body { 
+
+    background-image: url("../kartinki/intro.png");
+    background-position: top;
+    background-size: 100%;
+
 }
